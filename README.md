@@ -26,11 +26,33 @@ I enjoy solving real-world engineering problems where the goal is not just to bu
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile Development
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=flat)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+
 ![MVVM](https://img.shields.io/badge/MVVM-Architecture-FF6F00?style=flat)
+![MVI](https://img.shields.io/badge/MVI-Architecture-6C63FF?style=flat)
+![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=flat)
+![Flow](https://img.shields.io/badge/Kotlin_Flow-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=flat&logo=ktor&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?style=flat)
+
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=flat)
+![Dagger 2](https://img.shields.io/badge/Dagger_2-FF9800?style=flat)
+![Koin](https://img.shields.io/badge/Koin-6F4EFD?style=flat)
+
+![Room](https://img.shields.io/badge/Room-Database-3DDC84?style=flat)
+![SQLDelight](https://img.shields.io/badge/SQLDelight-2C8EBB?style=flat)
+![DataStore](https://img.shields.io/badge/DataStore-4285F4?style=flat)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Coil](https://img.shields.io/badge/Coil-00C853?style=flat)
+![Navigation Compose](https://img.shields.io/badge/Navigation_Compose-4285F4?style=flat)
 
 ---
 
@@ -163,10 +185,6 @@ ML-powered backend service for insurance prediction.
 
 <a href="https://www.linkedin.com/in/adarsh-shrivastava-9541a9160/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:shrivastava.adarsh27@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
