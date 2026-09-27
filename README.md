@@ -13,7 +13,7 @@ I’m an **Android & Backend Developer** with around **4.5 years of experience**
 
 On the Android side, I primarily work with **Kotlin, Jetpack Compose, MVVM, and MVI architecture**, focusing on performance, stability, and clean architecture design.
 
-Currently, I work at **91 Square Feet** on the **R’Dash app**, where I have delivered multiple **end-to-end production features** including order management, task tracking, and expense workflows used by field teams at scale. My focus has been on improving **app reliability, state management, and performance under real-world constraints**.
+Currently, I work at **R'Dash (YC W22)** on the **R’Dash app**, where I have delivered multiple **end-to-end production features** including order management, task tracking, and expense workflows used by field teams at scale. My focus has been on improving **app reliability, state management, and performance under real-world constraints**.
 
 Earlier at **PayU**, I worked on **payment systems and transaction flows**, gaining strong exposure to **high-reliability systems and production-grade mobile applications**.
 
@@ -83,7 +83,7 @@ I enjoy solving real-world engineering problems where the goal is not just to bu
 
 ## 📱 Featured Android Projects
 
-### 🔹 R’Dash (91 Square Feet App)
+### 🔹 R’Dash App
 A large-scale field operations management system used for real-world business workflows.
 
 **Key Contributions:**
