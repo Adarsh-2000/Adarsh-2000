@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adarsh Shrivastava
 
-📱 Android Developer (4.5+ Years Experience) | ⚙️ Backend Developer | 💻 Kotlin • FastAPI • Clean Architecture  
-🏢 Currently working at **91 Square Feet (R’Dash App)**  
+📱 Android Developer (5 Years Experience) | ⚙️ Backend Developer | 💻 Kotlin • FastAPI • Clean Architecture  
+🏢 Currently working at **R'Dash (YC W22) - R’Dash App**  
 📍 India  
 🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-shrivastava-9541a9160/)
 
